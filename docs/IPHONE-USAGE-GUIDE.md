@@ -1,5 +1,7 @@
 # iPhone/iOS Usage Guide - Multi-Agent Orchestration System
 
+> **🤖 Also available:** [Android Usage Guide](./ANDROID-USAGE-GUIDE.md) for Android devices
+
 ## Can I Use This on iPhone for Free?
 
 **Yes!** This project is completely free and open-source under the MIT License. You can use it on iPhone/iOS without any cost.
