@@ -35,6 +35,8 @@ Tool Registry (shared capabilities)
 npm install multi-agent-orchestration
 ```
 
+> **📱 Using on iPhone/Mobile?** Check out our [iPhone Usage Guide](./docs/IPHONE-USAGE-GUIDE.md) for instructions on how to use this on iOS devices for free!
+
 ## 🚀 Quick Start
 
 ```typescript
